@@ -43678,5 +43678,12 @@
     "author": "Yu Rui",
     "description": "Suggest, review, and manage controlled tags with OpenAI-compatible models. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yuriyagn/controlled-tagger"
+  },
+  {
+    "id": "media-transcript",
+    "name": "Media Transcript",
+    "author": "semsevens",
+    "description": "Play video/audio with synchronized, clickable transcripts. Click any line to seek; playing line auto-highlights.",
+    "repo": "semsevens/obsidian-media-transcript"
   }
 ]
